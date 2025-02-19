@@ -11,7 +11,7 @@ Analyze the sales data of **Monday Coffee**, which has been selling products onl
 
 ## 🗂️ **Project Structure**
 ```
-
+![ERD](/assets/eer_diagram.png)
 ```
 ## 🗂️ Database Structure
 The database consists of four interrelated tables:
