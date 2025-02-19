@@ -1,6 +1,6 @@
 # ☕ Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+![Company Logo](/assets/1.png)
 
 ---
 
@@ -10,9 +10,10 @@ Analyze the sales data of **Monday Coffee**, which has been selling products onl
 ---
 
 ## 🗂️ **Project Structure**
-```
-![ERD](/assets/eer_diagram.png)
-```
+![Company Logo](/assets/eer_diagram.png)
+
+---
+
 ## 🗂️ Database Structure
 The database consists of four interrelated tables:
 
